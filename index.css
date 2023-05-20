@@ -1,0 +1,45 @@
+*{
+    
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 80%;
+    background-color: #1E1E1E;
+    margin: auto;
+    padding: 60px;
+    color: aliceblue;
+}
+.container>div{
+    margin: 20px;
+}
+#userdata>div{
+    margin: 15px;
+}
+
+.userdata{
+    display: flex;
+    column-gap: 20px;
+    border: 1px solid aliceblue;
+    padding: 5px;
+    border-radius: 45px;
+    width: 70%;
+}
+#profession{
+    width: 23px;
+}
+#btn{
+    width: 10%;
+    padding: 5px;
+    margin: 8px;
+    cursor: pointer;
+    border: 1px solid aliceblue;
+}
+
+input{
+    background-color: #1E1E1E;
+    height: 4vh;
+    border: 1px solid aliceblue;
+    color: white;
+    
+}
